@@ -1,0 +1,192 @@
+[
+  {
+    "id": "rajiv-1",
+    "lat": 18.76,
+    "lng": 73.86,
+    "label": "Rajiv Plastics - Chakan",
+    "companyName": "Rajiv Plastics",
+    "industry": "Plastics/Masterbatch",
+    "location": "A-31, MIDC, Chakan, Pune, Maharashtra",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "rajiv-2",
+    "lat": 20.325,
+    "lng": 72.966,
+    "label": "Rajiv Plastics - Dadra",
+    "companyName": "Rajiv Plastics",
+    "industry": "Plastics/Masterbatch",
+    "location": "Demni Road, Village Dadra, Dadra & Nagar Haveli",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "rajiv-3",
+    "lat": 20.276,
+    "lng": 73.008,
+    "label": "Rajiv Plastics - Surangi",
+    "companyName": "Rajiv Plastics",
+    "industry": "Plastics/Masterbatch",
+    "location": "Surangi, Silvassa, Dadra & Nagar Haveli",
+    "color": "#3B82F6"
+  },
+  {
+    "id": "emcure-1",
+    "lat": 18.592,
+    "lng": 73.757,
+    "label": "Emcure Pharma - Hinjewadi",
+    "companyName": "Emcure Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "Rajiv Gandhi IT Park, MIDC, Hinjewadi, Pune, Maharashtra",
+    "color": "#EF4444"
+  },
+  {
+    "id": "emcure-2",
+    "lat": 18.397,
+    "lng": 74.521,
+    "label": "Emcure Pharma - Kurkumbh",
+    "companyName": "Emcure Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "D-24/24-1, MIDC Kurkumbh, Tal. Daund, Pune, Maharashtra",
+    "color": "#EF4444"
+  },
+  {
+    "id": "akums-1",
+    "lat": 29.94,
+    "lng": 78.10,
+    "label": "Akums - SIDCUL Haridwar",
+    "companyName": "Akums Drugs & Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "SIDCUL, Sector 6, Haridwar, Uttarakhand",
+    "color": "#22C55E"
+  },
+  {
+    "id": "akums-2",
+    "lat": 29.95,
+    "lng": 78.09,
+    "label": "Akums - Plant 2 Haridwar",
+    "companyName": "Akums Drugs & Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "Plot No. 22, Sector-6A, IIE, Sidcul, Haridwar, Uttarakhand",
+    "color": "#22C55E"
+  },
+  {
+    "id": "akums-3",
+    "lat": 29.93,
+    "lng": 78.11,
+    "label": "Akums - Plant 3 Haridwar",
+    "companyName": "Akums Drugs & Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "Plot No.2-6, Sector-6B, SIDCUL, Haridwar, Uttarakhand",
+    "color": "#22C55E"
+  },
+  {
+    "id": "akums-4",
+    "lat": 29.96,
+    "lng": 78.08,
+    "label": "Akums - Plant 4 Haridwar",
+    "companyName": "Akums Drugs & Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "Plot No. 47,48, Sector-6A, SIDCUL, Haridwar, Uttarakhand",
+    "color": "#22C55E"
+  },
+  {
+    "id": "akums-5",
+    "lat": 29.92,
+    "lng": 78.12,
+    "label": "Akums - Plant 5 Haridwar",
+    "companyName": "Akums Drugs & Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "Plot No. 13, Sector-6A, IIE, Sidcul, Haridwar, Uttarakhand",
+    "color": "#22C55E"
+  },
+  {
+    "id": "akums-6",
+    "lat": 30.958,
+    "lng": 76.791,
+    "label": "Akums - Baddi",
+    "companyName": "Akums Drugs & Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "Baddi, Himachal Pradesh",
+    "color": "#22C55E"
+  },
+  {
+    "id": "akums-7",
+    "lat": 29.752,
+    "lng": 78.527,
+    "label": "Akums - Kotdwar",
+    "companyName": "Akums Drugs & Pharmaceuticals",
+    "industry": "Pharmaceuticals",
+    "location": "Mohabewala Industrial Area, Kotdwar, Uttarakhand",
+    "color": "#22C55E"
+  },
+  {
+    "id": "mankind-1",
+    "lat": 30.45,
+    "lng": 77.62,
+    "label": "Mankind Pharma - Paonta Sahib",
+    "companyName": "Mankind Pharma",
+    "industry": "Pharmaceuticals",
+    "location": "Village Kishanpura, Paonta Sahib, Himachal Pradesh",
+    "color": "#F97316"
+  },
+  {
+    "id": "mankind-2",
+    "lat": 30.94,
+    "lng": 76.78,
+    "label": "Mankind Pharma - Baddi",
+    "companyName": "Mankind Pharma",
+    "industry": "Pharmaceuticals",
+    "location": "Baddi, Himachal Pradesh",
+    "color": "#F97316"
+  },
+  {
+    "id": "mankind-3",
+    "lat": 28.37,
+    "lng": 76.91,
+    "label": "Mankind Pharma - Manesar",
+    "companyName": "Mankind Pharma",
+    "industry": "Pharmaceuticals",
+    "location": "191-E, Sector 4-II, IMT Manesar, Gurugram, Haryana",
+    "color": "#F97316"
+  },
+  {
+    "id": "mankind-4",
+    "lat": 27.17,
+    "lng": 88.37,
+    "label": "Mankind Pharma - Namchi",
+    "companyName": "Mankind Pharma",
+    "industry": "Pharmaceuticals",
+    "location": "South Sikkim, Sikkim",
+    "color": "#F97316"
+  },
+  {
+    "id": "mankind-5",
+    "lat": 24.57,
+    "lng": 73.69,
+    "label": "Mankind Pharma - Udaipur",
+    "companyName": "Mankind Pharma",
+    "industry": "Pharmaceuticals",
+    "location": "Udaipur, Rajasthan",
+    "color": "#F97316"
+  },
+  {
+    "id": "mankind-6",
+    "lat": 28.535,
+    "lng": 77.271,
+    "label": "Mankind Pharma - Delhi HQ",
+    "companyName": "Mankind Pharma",
+    "industry": "Pharmaceuticals",
+    "location": "Okhla Industrial Estate, Phase-III, New Delhi",
+    "color": "#F97316"
+  },
+  {
+    "id": "asence-1",
+    "lat": 22.33,
+    "lng": 73.15,
+    "label": "Asence Pharma - Vadodara",
+    "companyName": "Asence Pharma",
+    "industry": "Pharmaceuticals",
+    "location": "Asence House, Gorwa Road, Vadodara, Gujarat",
+    "color": "#A855F7"
+  }
+]
