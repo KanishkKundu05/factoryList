@@ -188,5 +188,65 @@
     "industry": "Pharmaceuticals",
     "location": "Asence House, Gorwa Road, Vadodara, Gujarat",
     "color": "#A855F7"
+  },
+  {
+    "id": "crescent-1",
+    "lat": 28.362,
+    "lng": 76.945,
+    "label": "Crescent Dots-N-Lines - Manesar (Packaging)",
+    "companyName": "Crescent Dots-N-Lines Pvt Ltd",
+    "industry": "Packaging/Printing",
+    "location": "49, Sector 5, IMT Manesar, Gurugram, Haryana 122051",
+    "color": "#14B8A6"
+  },
+  {
+    "id": "crescent-2",
+    "lat": 28.631,
+    "lng": 77.133,
+    "label": "Crescent Dots-N-Lines - Naraina (Commercial Printing)",
+    "companyName": "Crescent Dots-N-Lines Pvt Ltd",
+    "industry": "Packaging/Printing",
+    "location": "C-106/2, Industrial Area Phase I, Naraina Industrial Area Phase 1, Naraina, New Delhi, Delhi 110028",
+    "color": "#14B8A6"
+  },
+  {
+    "id": "jaquar-1",
+    "lat": 28.21,
+    "lng": 76.86,
+    "label": "Jaquar - Unit I (Bhiwadi)",
+    "companyName": "Jaquar & Company",
+    "industry": "Sanitary Fittings/Faucets",
+    "location": "SP 53, RIICO Industrial Area, Bhiwadi, Rajasthan",
+    "color": "#EC4899"
+  },
+  {
+    "id": "jaquar-2",
+    "lat": 27.96,
+    "lng": 76.72,
+    "label": "Jaquar - Unit Chopanki",
+    "companyName": "Jaquar & Company",
+    "industry": "Sanitary Fittings/Faucets",
+    "location": "E-Block 426-427, Chopanki Industrial Area, Distt Alwar, Rajasthan",
+    "color": "#EC4899"
+  },
+  {
+    "id": "jaquar-3",
+    "lat": 28.196,
+    "lng": 76.862,
+    "label": "Jaquar - Unit II (Bhiwadi)",
+    "companyName": "Jaquar & Company",
+    "industry": "Sanitary Fittings/Faucets",
+    "location": "SP 496 (B), RIICO Industrial Area, Bhiwadi, Rajasthan",
+    "color": "#EC4899"
+  },
+  {
+    "id": "jaquar-4",
+    "lat": 23.293,
+    "lng": 70.339,
+    "label": "Jaquar - New Manufacturing Plant (Bhachau)",
+    "companyName": "Jaquar & Company",
+    "industry": "Sanitary Fittings/Faucets",
+    "location": "Survey No. 484, 485/1, 485/2, Bhachau Dudhai Road, Bhachau, Kutch, Gujarat - 370140",
+    "color": "#EC4899"
   }
 ]

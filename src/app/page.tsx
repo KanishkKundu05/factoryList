@@ -31,6 +31,8 @@ const companyColors = [
   { name: "Akums Drugs & Pharmaceuticals", color: "#22C55E" },
   { name: "Mankind Pharma", color: "#F97316" },
   { name: "Asence Pharma", color: "#A855F7" },
+  { name: "Crescent Dots-N-Lines Pvt Ltd", color: "#14B8A6" },
+  { name: "Jaquar & Company", color: "#EC4899" },
 ];
 
 export default function Home() {
